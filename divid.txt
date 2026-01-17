@@ -1,0 +1,12 @@
+Answer: 
+declare: a, b as numerical variables that will store the input of the users.
+declare: c as a numerical variable tha will store the result of the sum.
+create a text field that will ask the user to input his desire number
+print: ("please enter the first number a:") 
+a receives the value of standard input
+print: ("please enter the second number b:")
+b receives the value of standard input
+this is the part that does the division of a and b 
+A / B = C
+create a text field that will display the result wich is C
+print: ("The result of your inputs is: c")

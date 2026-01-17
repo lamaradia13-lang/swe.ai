@@ -1,0 +1,15 @@
+Answer:
+declare a, b as a numerical variables that will store the users inputs.
+declare c as a numerical variable that will store the result of the multiplication.
+create a text field that will ask the user to input his desire number
+print: ("please enter the first number a:") 
+a receives the value of standard input.
+print: ("please enter the second number b:") 
+b receives the value of standard input.
+this is where the calculation is done.
+A * B = C.
+create a text field that will display the result wich is C
+print: ("this is the result of the inputs:") 
+
+
+
